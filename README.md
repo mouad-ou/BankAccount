@@ -1,4 +1,4 @@
-#Project Title: CompteBancaire - Simple Banking Application
+##Project Title: CompteBancaire - Simple Banking Application
 
 Description:
 
